@@ -18,5 +18,5 @@ In this capstone project, participants will explore a real-world scenario where 
 - Jupyter Notebook: The preferred IDE for writing Python code, analyzing data, and sharing findings.
 - GitHub: Used for version control and sharing of the Jupyter Notebooks for collaboration and review.
 
-##Conclusion
+## Conclusion
 This capstone project provides a comprehensive platform to apply our data science skills to a practical industry problem. By predicting the landing success of SpaceX's Falcon 9, we will not only contribute to cost-saving strategies but also prepare to tackle similar challenges in the aerospace industry and beyond.
